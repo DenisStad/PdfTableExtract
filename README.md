@@ -5,7 +5,7 @@ This extracts tables from PDFs. It supports cells spanning multiple rows or colu
 
 I wrote this because I needed to extract the tables of a lot of PDFs, but good tools where expensive or not working well.
 
-This is not an easy to use tool, but if you want me to make if easier, tell me!
+This is not a very user friendly tool, but if you want me to make if easier, tell me!
 
 You need the following things installed: ghostscript, pdftotext, opencv
 
