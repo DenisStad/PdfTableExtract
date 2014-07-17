@@ -1,6 +1,13 @@
 PdfTableExtract
 ===============
 
+Input PDF:
+![alt tag](https://raw.github.com/DenisStad/PdfTableExtract/pdfIn.png)
+
+Output HTML:
+![alt tag](https://raw.github.com/DenisStad/PdfTableExtract/pdfOut.png)
+
+
 This extracts tables from PDFs. It supports cells spanning multiple rows or columns. For results, take a look at the PDF and the HTML in this repository. The HTML table was extracted from the PDF. 
 
 I wrote this because I needed to extract the tables of a lot of PDFs, but good tools where expensive or not working well.
